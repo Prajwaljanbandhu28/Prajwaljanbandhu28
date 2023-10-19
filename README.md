@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Prajwaljanbandhu28
-- 👀 I’m interested in open source projects
-- 🌱 I’m currently learning at jspm rscoe pune
-- 💞️ I’m looking to collaborate on ..
-- 📫 You can reach me by contacting me 9511933274/janbandhuprajwal28@gmail.com
+- Hello, I am @Prajwaljanbandhu28.
 
-<!---
-Prajwaljanbandhu28/Prajwaljanbandhu28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I have a keen interest in open source projects.
+I am currently pursuing my education at JSPM RSCOE Pune.
+I am actively seeking opportunities to collaborate in the fields of web development and software assurance testing.
+You can reach out to me by contacting me at 9511933274 or via email at janbandhuprajwal28@gmail.com.
+Please feel free to reach out if you have any questions or if there's anything specific you'd like to discuss.
+
+
